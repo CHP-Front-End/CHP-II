@@ -61,7 +61,7 @@ export default function Header() {
         </nav>
       )}
 
-      <div className="h-1 w-full bg-gradient-to-r from-sky-500 via-emerald-400 to-yellow-400" />
+      <div className="h-1 w-full bg-gradient-to from-sky-500 via-emerald-400 to-yellow-400" />
     </header>
   );
 }
