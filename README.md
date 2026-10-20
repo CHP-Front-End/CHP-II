@@ -1,16 +1,21 @@
-# React + Vite
+My PetClub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O My PetClub é um projeto de desenvolvimento web voltado para o universo pet, com foco em apresentar produtos e serviços para quem ama e cuida de seus animais de estimação.
 
-Currently, two official plugins are available:
+O objetivo é proporcionar uma experiência simples, intuitiva e agradável aos usuários, com uma interface organizada e de fácil navegação.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Funcionalidades
 
-## React Compiler
+Página inicial com apresentação do projeto.
+Navegação entre páginas.
+Página Sobre.
+Página de Contato.
+Interface intuitiva e organizada.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Desenvolvedores
 
-## Expanding the ESLint configuration
+Amanda Lourenço - RM: 572572 | Giovanna Scalzone - RM: 572285 | Nayra Duarte - RM: 573815
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tech Lead
+
+Paloma Dantas - RM: 569995
