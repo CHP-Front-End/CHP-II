@@ -5,3 +5,5 @@ Amanda Lourenço - RM: 572572 | Giovanna Scalzone - RM: 572285 | Nayra Duarte - 
 Tech Lead
 
 Paloma Dantas - RM: 569995
+
+Link do repositório: https://github.com/CHP-Front-End/CHP-II.git
