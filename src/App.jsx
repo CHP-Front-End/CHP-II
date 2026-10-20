@@ -8,6 +8,13 @@ const App = () => {
         <Route path="/contato" element={<Contato />} />
       </Routes>
     </BrowserRouter>
+import Header from "./components/Header"
+
+const App = () => {
+  return (
+    <>
+      <Header/>
+    </>
   )
 }
 
