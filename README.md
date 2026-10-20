@@ -6,11 +6,11 @@ O objetivo é proporcionar uma experiência simples, intuitiva e agradável aos 
 
 Funcionalidades
 
-Página inicial com apresentação do projeto.
-Navegação entre páginas.
-Página Sobre.
-Página de Contato.
-Interface intuitiva e organizada.
+Página inicial com apresentação do projeto,
+navegação entre páginas,
+página sobre,
+página de contato,
+interface intuitiva e organizada.
 
 Desenvolvedores
 
