@@ -113,6 +113,10 @@ const Sobre = () => {
           Venha fazer parte da nossa família!
         </p>
 
+        <Link to="/contato" className="mt-6 inline-block rounded-full bg-emerald-500 px-8 py-3 font-bold text-white shadow transition-colors duration-300 hover:bg-emerald-600">
+          🦴 Entre em contato
+        </Link>
+
       </div>
     </main>
   )
